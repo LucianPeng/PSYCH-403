@@ -37,4 +37,3 @@ Dictionary exercises
 Array exercises
 1) all the numbers become float format
 2) all the elements become string format. python will convert the components in the array into a priority order: string -> float -> integers
-3) 
