@@ -1,7 +1,7 @@
 My answers for Assignment 2
 
 Print exercises
-2) yes. 
+2) no
 
 Operation exercises 
 1) same values
