@@ -4,5 +4,5 @@
 # List operations exercises
   1. multiplying list means print the list 'x' times. multiplying array means multiply each value in the array with 'x'. In this case, 'x' = 2
   
-# Zipping exercises
-  2. 
+# Slicing exercises
+  5. yes. as shown in python code.
